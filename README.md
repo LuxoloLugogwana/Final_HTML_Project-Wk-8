@@ -22,20 +22,6 @@ Lemon Motors is a car dealership website designed to provide users with an engag
 - JavaScript (script.js referenced but not provided in code)
 - WebM video format for optimized background video
 
-## File Structure
-
-```
-lemon-motors/
-├── index.html
-├── aboutus.html
-├── contact.html
-└── resources/
-    ├── stylesheets/
-    ├── images/
-    ├── video/
-    └── script.js
-```
-
 ## Deployment
 
 The website is deployed and accessible at: 
